@@ -1,1 +1,1 @@
-# primerParcialPartePracticaSO
+# CodigoImplementacionMLQ-ppSO
