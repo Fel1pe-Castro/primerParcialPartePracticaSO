@@ -1,6 +1,6 @@
 # CodigoImplementacionMLQ-ppSO
 
-Este proyecto implementa un simulador del algoritmo **Multi-Level Queue (MLQ)** en Java, aplicando los principios de **Programación Orientada a Objetos (POO). El propósito es modelar cómo un sistema operativo organiza la ejecución de procesos mediante múltiples colas de prioridad, cada una con su propio algoritmo de planificación.
+Este proyecto implementa un simulador del algoritmo **Multi-Level Queue (MLQ)** en Java, aplicando los principios de **Programación Orientada a Objetos (POO)**. El propósito es modelar cómo un sistema operativo organiza la ejecución de procesos mediante múltiples colas de prioridad, cada una con su propio algoritmo de planificación.
 
 El simulador está diseñado para manejar tres niveles de colas, donde cada una representa un nivel de prioridad diferente. La **cola 1** utiliza el algoritmo **Round Robin con quantum 3**, la **cola 2** también usa **Round Robin pero con quantum 5**, y la **cola 3** aplica **FCFS (First Come, First Served)**. Esta estructura permite observar cómo el tiempo de espera, respuesta y retorno cambian dependiendo del algoritmo y del nivel de prioridad del proceso.
 
